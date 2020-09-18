@@ -1,3 +1,5 @@
 Guzman Eric
 Limachi Ramos Sergio Ariel
 Sanchez Matias
+a- Si ALFA ve todos los datos cargados en el repositorio.
+b- Si lo pueden ver ya que ALFA los agrego como colaboradores.
