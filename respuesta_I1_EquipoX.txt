@@ -3,3 +3,5 @@ Limachi Ramos Sergio Ariel
 Sanchez Matias
 a- Si ALFA ve todos los datos cargados en el repositorio.
 b- Si lo pueden ver ya que ALFA los agrego como colaboradores.
+c- Si todos pueden ver los archivos
+d- usamos watsapp y las notificaciones del mail
